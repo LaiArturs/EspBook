@@ -11,7 +11,7 @@ weight: 2
 # bookIcon: ''
 ---
 
-### 1.3. La Huida y el Inspector (The Escape and the Inspector)
+# 1.3. La Huida y el Inspector (The Escape and the Inspector)
 
 No puedo salir por la puerta principal. Veo las luces azules de la policía
 reflejadas en el escaparate. Si salgo ahora, estoy muerto. O peor, estaré en una
