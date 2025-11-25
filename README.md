@@ -1,3 +1,7 @@
+# [READ HERE](https://espbook.laiarturs.com/)
+
+This poject is published as hugo static website.
+
 ## Seting up on Kubuntu 24.04
 
 ```sh
