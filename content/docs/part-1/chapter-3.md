@@ -1,14 +1,6 @@
 ---
-title: "1.3. La Huida y el Inspector (The Escape and the Inspector)"
-weight: 2
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
-# bookHref: ''
-# bookIcon: ''
+title: "1.3. La Huida y el Inspector"
+weight: 3
 ---
 
 # 1.3. La Huida y el Inspector (The Escape and the Inspector)

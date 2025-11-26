@@ -1,14 +1,6 @@
 ---
 title: "1.1. La Mosca y el Vino"
 weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
-# bookHref: ''
-# bookIcon: ''
 ---
 
 # 1.1. La Mosca y el Vino (The Fly and the Wine)
