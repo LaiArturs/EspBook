@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://espbook.laiarturs.com/'
 languageCode = 'es-ES'
 title = 'Sombras de Barcelona'
 theme = 'hugo-book'
