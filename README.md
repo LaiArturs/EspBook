@@ -4,6 +4,7 @@ This poject is published as hugo static website.
 
 ## Seting up on Kubuntu 24.04
 
+### 1. Install latest version of `hugo`
 ```sh
 sudo snap install hugo --channel=extended
 ```
@@ -11,8 +12,10 @@ sudo snap install hugo --channel=extended
 ## Running development server
 
 ```sh
-hugo server -D
+hugo server
 ```
+
+Development preview of website should be available in: http://localhost:1313/
 
 ## Extrnding content
 
