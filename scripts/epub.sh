@@ -31,6 +31,9 @@ for f in "${files[@]}"; do
   echo " - $f"
 done
 
+echo "Injecting EPUB-friendly tooltips (pandoc footnotes)..."
+python3 scripts/inject_tooltips.py . epub
+
 echo "Generating EPUB to $OUT_FILE"
 pandoc --from markdown+yaml_metadata_block+smart --toc -o "$OUT_FILE" "${files[@]}"
 

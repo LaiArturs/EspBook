@@ -11,6 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python deps
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install pyyaml
+
+      - name: Inject tooltips
+        run: |
+          python3 scripts/inject_tooltips.py . hugo
+
       - name: Build EPUB
         run: |
           chmod +x scripts/epub.sh
