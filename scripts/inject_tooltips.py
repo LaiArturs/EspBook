@@ -55,7 +55,7 @@ def load_translations(yaml_path):
 
 
 def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = ".bak",
-                     dry_run: bool = False, skip_front_matter: bool = False):
+                     dry_run: bool = False, skip_front_matter: bool = False, limit_first: int = None):
     text = path.read_text(encoding="utf-8")
 
     # Split front matter (YAML) if requested
@@ -70,6 +70,8 @@ def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = "
     total_replacements = 0
     out_lines = []
     in_code = False
+    # Track occurrences per word
+    word_counts = {}
 
     # Prepare combined regex for all words (longest first)
     words = [w for w, _ in tooltip_list]
@@ -116,24 +118,31 @@ def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = "
             out_lines.append(line)
             continue
 
-        # replacement function that skips matches inside existing shortcodes
+        # replacement function that skips matches inside existing shortcodes and limits per word
         def _replacer(m):
+            nonlocal total_replacements
             st = m.start()
             if in_shortcode(st):
                 return m.group(0)
             word = m.group(1)
+            
+            # Track and limit occurrences per word
+            if word not in word_counts:
+                word_counts[word] = 0
+            if limit_first is not None and word_counts[word] >= limit_first:
+                return m.group(0)
+            
+            word_counts[word] += 1
+            total_replacements += 1
+            
             definition = repl_map.get(word, "")
             if mode == "epub":
                 rep = f"{word}^[{definition}]"
             else:
                 rep = f"{{{{< tooltip word=\"{word}\" def=\"{definition}\" >}}}}"
-            nonlocal_total_replacements[0] += 1
             return rep
 
-        # nonlocal counter hack for inner function
-        nonlocal_total_replacements = [0]
         modified_line = combined_pattern.sub(_replacer, line)
-        total_replacements += nonlocal_total_replacements[0]
         out_lines.append(modified_line)
 
     new_text = front + "".join(out_lines)
@@ -158,6 +167,7 @@ def main():
                         help="Injection mode: 'hugo' for shortcodes, 'epub' for pandoc footnotes")
     parser.add_argument("--dry-run", action="store_true", help="Do not write files; report changes")
     parser.add_argument("--skip-front-matter", action="store_true", help="Do not modify YAML front matter")
+    parser.add_argument("--limit-first", type=int, default=None, help="Limit to first N occurrences of each word per file")
     args = parser.parse_args()
 
     work_dir = Path(args.work_dir)
@@ -180,7 +190,8 @@ def main():
     for md in content_dir.rglob("*.md"):
         print(f"Processing: {md}")
         n = inject_into_file(md, tooltip_list, args.mode, dry_run=args.dry_run,
-                             skip_front_matter=args.skip_front_matter)
+                             skip_front_matter=args.skip_front_matter,
+                             limit_first=args.limit_first)
         if n:
             if args.dry_run:
                 print(f"  would change: {n} replacements")
