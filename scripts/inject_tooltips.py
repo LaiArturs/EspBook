@@ -71,6 +71,16 @@ def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = "
     out_lines = []
     in_code = False
 
+    # Prepare combined regex for all words (longest first)
+    words = [w for w, _ in tooltip_list]
+    if words:
+        words_sorted = sorted(words, key=lambda x: len(x), reverse=True)
+        combined_pattern = re.compile(r"\b(" + "|".join(re.escape(w) for w in words_sorted) + r")\b")
+        repl_map = {w: d for w, d in tooltip_list}
+    else:
+        combined_pattern = None
+        repl_map = {}
+
     for line in body.splitlines(keepends=True):
         stripped = line.lstrip()
         # toggle code block state for ``` or ~~~ fences
@@ -83,20 +93,47 @@ def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = "
             out_lines.append(line)
             continue
 
-        original_line = line
-        modified_line = line
+        # find shortcode ranges {{< ... >}} in the line and skip replacements inside them
+        shortcode_ranges = []
+        start_pos = 0
+        while True:
+            i = line.find("{{<", start_pos)
+            if i == -1:
+                break
+            j = line.find(">}}", i)
+            if j == -1:
+                break
+            shortcode_ranges.append((i, j + 3))
+            start_pos = j + 3
 
-        for word, definition in tooltip_list:
-            escaped = re.escape(word)
-            pattern = r"\b" + escaped + r"\b"
+        def in_shortcode(pos):
+            for a, b in shortcode_ranges:
+                if a <= pos < b:
+                    return True
+            return False
+
+        if combined_pattern is None:
+            out_lines.append(line)
+            continue
+
+        # replacement function that skips matches inside existing shortcodes
+        def _replacer(m):
+            st = m.start()
+            if in_shortcode(st):
+                return m.group(0)
+            word = m.group(1)
+            definition = repl_map.get(word, "")
             if mode == "epub":
-                replacement = f"{word}^[{definition}]"
+                rep = f"{word}^[{definition}]"
             else:
-                replacement = f"{{{{< tooltip word=\"{word}\" def=\"{definition}\" >}}}}"
+                rep = f"{{{{< tooltip word=\"{word}\" def=\"{definition}\" >}}}}"
+            nonlocal_total_replacements[0] += 1
+            return rep
 
-            modified_line, n = re.subn(pattern, replacement, modified_line)
-            total_replacements += n
-
+        # nonlocal counter hack for inner function
+        nonlocal_total_replacements = [0]
+        modified_line = combined_pattern.sub(_replacer, line)
+        total_replacements += nonlocal_total_replacements[0]
         out_lines.append(modified_line)
 
     new_text = front + "".join(out_lines)
