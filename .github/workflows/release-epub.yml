@@ -18,7 +18,7 @@ jobs:
 
       - name: Inject tooltips
         run: |
-          python3 scripts/inject_tooltips.py . hugo
+          python3 scripts/inject_tooltips.py . epub
 
       - name: Build EPUB
         run: |
