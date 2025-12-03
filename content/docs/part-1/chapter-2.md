@@ -26,44 +26,60 @@ un ángel y bebe como un demonio. Dicen que tocó con Miles Davis en París, per
 
 —Hola, Héctor —dice El Gato con su acento fuerte. —¿Qué quieres? Es temprano
 para ti. Normalmente duermes hasta la una.
+
 —Hoy es un día especial. Un café con brandy. Carajillo.
+
 —Mala elección para el hígado.
+
 —Es la única elección para mi cabeza.
 
 El Gato sirve el café y echa un chorro generoso de brandy Veterano. Bebo un
 poco. El alcohol caliente quema mi garganta y despierta mi estómago. Es una
 buena sensación.
 Saco la foto del chico, Javier Boix, y la pongo sobre la madera de la barra.
+
 —¿Conoces a este chico? —pregunto directamente.
 
 El Gato mira la foto un segundo. Sus ojos oscuros no cambian. No muestra
 emoción.
-—Quizás. Veo muchas caras cada noche, Héctor.
-—No juegues conmigo, Gato. No hoy. Su madre me paga bien y yo pago mis bebidas.
-Pongo un billete sobre la barra.
 
+—Quizás. Veo muchas caras cada noche, Héctor.
+
+—No juegues conmigo, Gato. No hoy. Su madre me paga bien y yo pago mis bebidas.
+
+Pongo un billete sobre la barra.
 El Gato coge el billete rápidamente.
+
 —Es un estudiante —dice El Gato en voz baja, acercándose a mí. —Viene aquí los
 viernes por la noche. Se sienta en esa mesa del rincón. Le gusta el jazz
 agresivo. Bebop. Y le gusta hablar.
+
 —¿Hablar de qué?
+
 —De lo de siempre. De la libertad. De la revolución. De libros prohibidos. Es un
 idealista.
+
 —Los idealistas mueren jóvenes en este país —digo yo. —¿Con quién habla?
 
 El Gato mira hacia la puerta, nervioso. Tiene miedo. En Barcelona, todo el mundo
 tiene un poco de miedo estos días.
+
 —Habla con una chica. Una chica francesa. Muy guapa. Muy intensa. Se llama
 Solange.
+
 —¿Dónde vive Solange?
+
 —No sé dónde vive. Los franceses son secretos. Pero sé dónde trabaja. Ella
 trabaja en la librería antigua en la calle Petritxol.
 
 Termino mi café de un trago. El brandy hace su trabajo. Me siento más fuerte.
+
 —Gracias, Gato. Toca algo triste para mí esta noche.
+
 —Ten cuidado, Héctor —dice él mientras limpia otro vaso. —La ciudad está
 caliente. Ayer la policía secreta arrestó a tres estudiantes en la Universidad.
 Dicen que tenían bombas caseras. La gente está nerviosa.
+
 —Yo no busco bombas. Busco a un niño rico que juega a ser revolucionario.
 
 Salgo del bar y subo las escaleras hacia la luz. La luz del día me molesta en
@@ -80,6 +96,7 @@ filosofía.
 
 Intento abrir la puerta. Está abierta. Una campanilla suena cuando entro.
 Ding-dong.
+
 —¿Hola? —grito.
 
 No hay nadie en el mostrador. El silencio es pesado. No es un silencio normal.
@@ -88,6 +105,7 @@ Escucho un ruido en la parte de atrás, en el almacén. Un ruido fuerte. Como un
 pila de libros que cae al suelo. O un cuerpo.
 
 Camino despacio hacia el fondo. El suelo de madera cruje bajo mis zapatos.
+
 —¿Solange? ¿Hola?
 
 No hay respuesta.
@@ -105,10 +123,11 @@ sobre las palabras negras. Don Quijote está cubierto de sangre.
 
 Me acerco. Toco su cuello. No hay pulso. La piel está todavía caliente. Acaba de
 morir.
+
 —Mierda —susurro. —Mierda, mierda, mierda.
 
 En ese momento, escucho algo terrible. Sirenas.
-Nino-nino-nino.
+_Nino-nino-nino._
 Las sirenas de la policía. Están muy cerca. Se detienen delante de la tienda.
 Alguien llamó a la policía antes de que yo llegara. Es una trampa. O mala
 suerte.
