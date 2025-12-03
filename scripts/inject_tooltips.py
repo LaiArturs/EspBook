@@ -74,11 +74,13 @@ def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = "
     word_counts = {}
 
     # Prepare combined regex for all words (longest first)
+    # Use case-insensitive matching with re.IGNORECASE
     words = [w for w, _ in tooltip_list]
     if words:
         words_sorted = sorted(words, key=lambda x: len(x), reverse=True)
-        combined_pattern = re.compile(r"\b(" + "|".join(re.escape(w) for w in words_sorted) + r")\b")
-        repl_map = {w: d for w, d in tooltip_list}
+        combined_pattern = re.compile(r"\b(" + "|".join(re.escape(w) for w in words_sorted) + r")\b", re.IGNORECASE)
+        # Create case-insensitive lookup map
+        repl_map = {w.lower(): d for w, d in tooltip_list}
     else:
         combined_pattern = None
         repl_map = {}
@@ -124,22 +126,23 @@ def inject_into_file(path: Path, tooltip_list, mode: str, backup_suffix: str = "
             st = m.start()
             if in_shortcode(st):
                 return m.group(0)
-            word = m.group(1)
+            matched_text = m.group(1)  # Preserve original capitalization
+            word_lower = matched_text.lower()
             
-            # Track and limit occurrences per word
-            if word not in word_counts:
-                word_counts[word] = 0
-            if limit_first is not None and word_counts[word] >= limit_first:
+            # Track and limit occurrences per word (case-insensitive)
+            if word_lower not in word_counts:
+                word_counts[word_lower] = 0
+            if limit_first is not None and word_counts[word_lower] >= limit_first:
                 return m.group(0)
             
-            word_counts[word] += 1
+            word_counts[word_lower] += 1
             total_replacements += 1
             
-            definition = repl_map.get(word, "")
+            definition = repl_map.get(word_lower, "")
             if mode == "epub":
-                rep = f"{word}^[{definition}]"
+                rep = f"{matched_text}^[{definition}]"
             else:
-                rep = f"{{{{< tooltip word=\"{word}\" def=\"{definition}\" >}}}}"
+                rep = f"{{{{< tooltip word=\"{matched_text}\" def=\"{definition}\" >}}}}"
             return rep
 
         modified_line = combined_pattern.sub(_replacer, line)
