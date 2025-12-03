@@ -20,12 +20,12 @@ policías llevan uniformes grises, cascos grises y botas negras brillantes.
 Tienen porras largas de goma. Parecen máquinas, no hombres. No tienen caras,
 solo ojos oscuros detrás de los visores.
 
-De repente, un silbato suena. _Fiiiit_.
+De repente, un silbato suena. _Fiiiit._
 Los estudiantes empiezan a correr.
 —¡Libertad! ¡Amnistía! —gritan. Sus voces son jóvenes y fuertes.
 La policía carga. El suelo tiembla con sus botas. Corren detrás de los
 estudiantes. Golpean con las porras sin piedad.
-Pam, pam, pam. El sonido de la goma contra la carne es terrible.
+_Pam, pam, pam._ El sonido de la goma contra la carne es terrible.
 
 Veo a una chica con una falda azul caer al suelo. Pierde sus libros. Un policía
 levanta su porra para golpearla.
@@ -41,18 +41,21 @@ Cuando la policía pasa corriendo, cruzo la calle Gran Vía rápido. Entro en el
 Edificio Histórico de la Universidad por una puerta lateral pequeña. La puerta
 está cerrada, pero golpeo tres veces.
 Un hombre viejo abre la ventanilla. Es Paco, el portero nocturno.
+
 —¿Héctor? —pregunta Paco. —¿Qué haces aquí? Está el infierno ahí fuera.
+
 —Necesito entrar, Paco. Solo cinco minutos.
 
 Paco mira mi cara cansada. Sabe que fui policía antes. Sabe que ahora soy un
 desastre.
 Le doy un paquete de tabaco Ducados. Paco coge el tabaco y abre la puerta.
+
 —Rápido. Si los Grises te ven, te matan. Y a mí también.
 
 El edificio es grande, antiguo y frío. Es un laberinto de piedra. Huele a libros
 viejos, a madera encerada y esta noche, huele a pánico.
-Subo las escaleras de mármol hasta el segundo piso. Mis pasos hacen eco. Clac,
-clac, clac.
+Subo las escaleras de mármol hasta el segundo piso. Mis pasos hacen eco. _Clac,
+clac, clac._
 Busco el despacho del Profesor Riera. Riera es un viejo amigo. Bebíamos juntos
 hace diez años. Él es un historiador, un anarquista de corazón, pero un profesor
 de profesión. Le gustan los libros más que las personas.
@@ -65,13 +68,19 @@ de cuero vieja. Está sudando. Sus gafas están sucias.
 
 —Héctor —dice él sin mirarme. —No deberías estar aquí. La policía va a romper
 la puerta principal en cualquier momento.
+
 —Siempre estás corriendo, Riera. Relájate.
+
 —No puedo relajarme. Esta noche es diferente. Van a limpiar la universidad.
+
 —Necesito información, Riera. Y tú sabes todo lo que pasa en esta ciudad.
+
 —No tengo tiempo para tus juegos de detective.
 
 Me siento en una silla frente a él.
+
 —Es sobre Javier Boix. El hijo del industrial Carlos Boix. Y sobre la librería
+
 Lletraferit.
 
 Riera se detiene. Su cara se pone blanca como el papel. Deja caer un libro.
