@@ -20,7 +20,7 @@ policías llevan uniformes grises, cascos grises y botas negras brillantes.
 Tienen porras largas de goma. Parecen máquinas, no hombres. No tienen caras,
 solo ojos oscuros detrás de los visores.
 
-De repente, un silbato suena. Fiiiit.
+De repente, un silbato suena. _Fiiiit_.
 Los estudiantes empiezan a correr.
 —¡Libertad! ¡Amnistía! —gritan. Sus voces son jóvenes y fuertes.
 La policía carga. El suelo tiembla con sus botas. Corren detrás de los
