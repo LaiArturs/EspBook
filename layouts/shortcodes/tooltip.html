@@ -1,0 +1,7 @@
+{{/* 
+  Tooltip shortcode for displaying Spanish words with English definitions
+  Usage: {{< tooltip word="word or phrase" def="definition" >}}
+  Example: {{< tooltip word="mosca" def="fly (insect)" >}}
+*/}}
+
+<span class="tooltip" title="{{ .Get `def` }}">{{ .Get `word` }}</span>

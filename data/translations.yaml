@@ -1,0 +1,983 @@
+tooltips:
+- word: mosca
+  definition: fly (insect)
+- word: despierto
+  definition: I wake up
+- word: sábanas
+  definition: sheets (bedding)
+- word: húmedo
+  definition: damp, humid
+- word: sudor
+  definition: sweat
+- word: botellas vacías
+  definition: empty bottles
+- word: periódicos viejos
+  definition: old newspapers
+- word: pan duro
+  definition: stale bread
+- word: pulmones
+  definition: lungs
+- word: tos
+  definition: cough
+- word: balcones oxidados
+  definition: rusty balconies
+- word: alcantarilla
+  definition: sewer, drain
+- word: Generalísimo
+  definition: Generalissimo (military commander/Franco)
+- word: máquinas
+  definition: machines
+- word: pesetas
+  definition: pesetas (old Spanish currency)
+- word: pantalones
+  definition: pants, trousers
+- word: mancha
+  definition: stain, spot
+- word: ropa buena
+  definition: nice clothes
+- word: aire frío
+  definition: cold air
+- word: mar
+  definition: sea
+- word: policías armados
+  definition: armed police
+- word: Grises
+  definition: Grises (Franco's secret police)
+- word: oficina
+  definition: office
+- word: edificio viejo
+  definition: old building
+- word: gatos
+  definition: cats
+- word: ventana rota
+  definition: broken window
+- word: cristal
+  definition: glass, pane
+- word: Investigaciones
+  definition: Investigations (private detective work)
+- word: polvo
+  definition: dust
+- word: papelera
+  definition: wastebasket, trash bin
+- word: brandy
+  definition: brandy (alcohol)
+- word: golpea la puerta
+  definition: knocks on the door
+- word: puerta
+  definition: door
+- word: ronca
+  definition: hoarse, raspy
+- word: vendedora
+  definition: saleswoman
+- word: suave
+  definition: soft, smooth
+- word: educada
+  definition: educated, well-mannered
+- word: abrigo
+  definition: coat, overcoat
+- word: piel
+  definition: leather, skin
+- word: zapatos italianos
+  definition: Italian shoes
+- word: caros
+  definition: expensive
+- word: rubio
+  definition: blonde, fair-haired
+- word: perfume francés
+  definition: French perfume
+- word: Chanel
+  definition: Chanel (luxury perfume brand)
+- word: tiemblan
+  definition: tremble, shake
+- word: desorden
+  definition: mess, disorder
+- word: señora de la limpieza
+  definition: cleaning lady, housekeeper
+- word: vacaciones
+  definition: vacation, time off
+- word: asco
+  definition: disgust
+- word: archivador
+  definition: filing cabinet
+- word: bolso de cuero
+  definition: leather purse, handbag
+- word: foto
+  definition: photo, picture
+- word: blanco y negro
+  definition: black and white
+- word: dedos
+  definition: fingers
+- word: anillos de oro
+  definition: gold rings
+- word: desaparecido
+  definition: disappeared, missing
+- word: chico joven
+  definition: young boy
+- word: barba
+  definition: beard
+- word: ropa hippie
+  definition: hippie clothes
+- word: mirada
+  definition: look, gaze
+- word: desafiante
+  definition: defiant, challenging
+- word: llamada
+  definition: call, phone call
+- word: nada
+  definition: nothing
+- word: firmemente
+  definition: firmly, resolutely
+- word: bebe
+  definition: drinks
+- word: amigos peligrosos
+  definition: dangerous friends
+- word: odio
+  definition: I hate
+- word: trae problemas
+  definition: brings problems
+- word: nombre
+  definition: name
+- word: destruirá
+  definition: will destroy
+- word: sobre grueso
+  definition: thick envelope
+- word: billetes
+  definition: bills, banknotes
+- word: desesperados
+  definition: desperate, hopeless
+- word: aceptar
+  definition: to accept
+- word: punto de partida
+  definition: starting point
+- word: amigos
+  definition: friends
+- word: Jamboree
+  definition: Jamboree (name of a bar)
+- word: Plaza Real
+  definition: Royal Square
+- word: trozo
+  definition: piece, bit
+- word: tambor
+  definition: drum
+- word: cerebro
+  definition: brain
+- word: pared
+  definition: wall
+- word: gorda
+  definition: fat
+- word: patas
+  definition: paws, legs (of animals)
+- word: razón
+  definition: reason (she's right)
+- word: cama
+  definition: bed
+- word: suelo
+  definition: floor, ground
+- word: barato
+  definition: cheap
+- word: mata
+  definition: kills
+- word: campeones
+  definition: champions
+- word: perdedores
+  definition: losers
+- word: cocina
+  definition: kitchen
+- word: camino
+  definition: I walk
+- word: enciendo
+  definition: I light, I turn on
+- word: humo
+  definition: smoke
+- word: llena
+  definition: fills
+- word: toso
+  definition: I cough
+- word: fumador
+  definition: smoker
+- word: ventana
+  definition: window
+- word: vivo
+  definition: I live
+- word: basura
+  definition: trash, garbage
+- word: ropa
+  definition: clothes
+- word: sucia
+  definition: dirty
+- word: colgada
+  definition: hanging
+- word: esquina
+  definition: corner (street corner)
+- word: lleva
+  definition: she wears, she carries
+- word: falda
+  definition: skirt
+- word: corta
+  definition: short
+- word: tiene frío
+  definition: she is cold
+- word: fuma
+  definition: she smokes
+- word: espera
+  definition: she waits
+- word: cielo
+  definition: sky
+- word: noviembre
+  definition: November
+- word: vecino
+  definition: neighbor
+- word: encendida
+  definition: turned on
+- word: noticias
+  definition: news
+- word: hablan
+  definition: they speak, they talk
+- word: gente dice
+  definition: people say
+- word: morir
+  definition: to die
+- word: pronto
+  definition: soon
+- word: conectado
+  definition: connected
+- word: me importa
+  definition: it matters to me
+- word: iguales
+  definition: equal, the same
+- word: quieren
+  definition: they want
+- word: poder
+  definition: power
+- word: solo quiero
+  definition: I only want
+- word: comprar
+  definition: to buy
+- word: botella
+  definition: bottle
+- word: me visto
+  definition: I get dressed
+- word: arrugados
+  definition: wrinkled
+- word: camisa
+  definition: shirt
+- word: bolsillo
+  definition: pocket
+- word: no importa
+  definition: it doesn't matter
+- word: detective privado
+  definition: private detective
+- word: contratas
+  definition: you hire
+- word: tipo
+  definition: guy, type
+- word: salgo
+  definition: I go out
+- word: aire
+  definition: air
+- word: frío
+  definition: cold
+- word: huele
+  definition: it smells
+- word: mucha gente
+  definition: many people
+- word: cerca
+  definition: near
+- word: rápido
+  definition: fast
+- word: ojos
+  definition: eyes
+- word: policía
+  definition: police
+- word: necesito
+  definition: I need
+- word: letras
+  definition: letters
+- word: han desaparecido
+  definition: have disappeared
+- word: dice
+  definition: it says
+- word: entro
+  definition: I enter
+- word: todas partes
+  definition: everywhere
+- word: carta
+  definition: letter
+- word: recojo
+  definition: I pick up
+- word: factura
+  definition: bill, invoice
+- word: luz
+  definition: light, electricity
+- word: último aviso
+  definition: final notice
+- word: tiro
+  definition: I throw
+- word: me siento
+  definition: I sit down
+- word: grita
+  definition: screams, shouts
+- word: dolor
+  definition: pain
+- word: pongo
+  definition: I put
+- word: pies
+  definition: feet
+- word: cruzo
+  definition: I cross
+- word: manos
+  definition: hands
+- word: cierro
+  definition: I close
+- word: intento
+  definition: I try
+- word: recordar
+  definition: to remember
+- word: puse
+  definition: I put (past)
+- word: última
+  definition: last
+- word: de repente
+  definition: suddenly
+- word: fuerza
+  definition: strength, force
+- word: quiero
+  definition: I want
+- word: abrir
+  definition: to open
+- word: dormir
+  definition: to sleep
+- word: olvidar
+  definition: to forget
+- word: duele
+  definition: it hurts
+- word: dolor de cabeza
+  definition: headache
+- word: cerrado
+  definition: closed
+- word: grito
+  definition: I shout
+- word: voz
+  definition: voice
+- word: vuelva
+  definition: come back (command)
+- word: señor
+  definition: mister, sir
+- word: me levanto
+  definition: I get up
+- word: allí
+  definition: there
+- word: ella
+  definition: she
+- word: cuarenta años
+  definition: forty years
+- word: pelo
+  definition: hair
+- word: tristes
+  definition: sad
+- word: problemas
+  definition: problems
+- word: graves
+  definition: serious
+- word: poco
+  definition: a little
+- word: pase
+  definition: come in (command)
+- word: digo
+  definition: I say
+- word: cuidado
+  definition: careful, be careful
+- word: mentira
+  definition: lie
+- word: no tengo
+  definition: I don't have
+- word: entra
+  definition: she enters
+- word: mira
+  definition: she looks
+- word: vacía
+  definition: empty
+- word: sobre
+  definition: on, about
+- word: quiere sentarse
+  definition: do you want to sit down
+- word: pregunto
+  definition: I ask
+- word: señalo
+  definition: I point
+- word: madera
+  definition: wood
+- word: tengo prisa
+  definition: I'm in a hurry
+- word: mucho tiempo
+  definition: a long time
+- word: todo el mundo
+  definition: everyone
+- word: abre
+  definition: she opens
+- word: saca
+  definition: she takes out
+- word: largos
+  definition: long
+- word: llevan
+  definition: they wear, they carry
+- word: busco
+  definition: I'm looking for
+- word: su voz
+  definition: her voice
+- word: se rompe
+  definition: breaks
+- word: ha desaparecido
+  definition: has disappeared
+- word: cojo
+  definition: I take, I grab
+- word: imagen
+  definition: image
+- word: veinte años
+  definition: twenty years
+- word: largo
+  definition: long
+- word: cómo se llama
+  definition: what is his/her name
+- word: estudia
+  definition: he studies
+- word: ha vuelto
+  definition: has returned
+- word: tres días
+  definition: three days
+- word: ni una
+  definition: not even one
+- word: mucho
+  definition: a lot, much
+- word: joven
+  definition: young
+- word: quizás
+  definition: perhaps
+- word: está con
+  definition: is with
+- word: bebiendo
+  definition: drinking
+- word: hacen
+  definition: they do
+- word: eso
+  definition: that
+- word: peligrosos
+  definition: dangerous
+- word: políticos
+  definition: political
+- word: suspiro
+  definition: I sigh
+- word: busco
+  definition: I look for
+- word: odio
+  definition: I hate
+- word: siempre trae
+  definition: always brings
+- word: me ha dicho
+  definition: has told me
+- word: me detengo
+  definition: I stop
+- word: conozco
+  definition: I know (a person/place)
+- word: apellido
+  definition: surname, last name
+- word: su marido
+  definition: her husband
+- word: por eso
+  definition: that's why
+- word: estoy aquí
+  definition: I'm here
+- word: peligrosa
+  definition: dangerous (feminine)
+- word: nerviosa
+  definition: nervous
+- word: enfermedad
+  definition: illness, disease
+- word: lo sé
+  definition: I know (it)
+- word: debe ir
+  definition: should go
+- word: no puedo
+  definition: I can't
+- word: hombre importante
+  definition: important man
+- word: encuentra
+  definition: finds
+- word: será
+  definition: will be
+- word: terrible
+  definition: terrible
+- word: pone
+  definition: she puts
+- word: veo
+  definition: I see
+- word: dentro
+  definition: inside
+- word: suficiente
+  definition: enough
+- word: pagar
+  definition: to pay
+- word: durante
+  definition: during, for
+- word: encuentre
+  definition: find (command)
+- word: encuéntrelo
+  definition: find him (command)
+- word: antes que
+  definition: before
+- word: tráigalo
+  definition: bring him (command)
+- word: miro
+  definition: I look at
+- word: se frota
+  definition: rubs (itself)
+- word: sabe
+  definition: knows, she knows
+- word: voy a
+  definition: I'm going to
+- word: está bien
+  definition: okay, alright
+- word: necesito
+  definition: I need
+- word: quiénes son
+  definition: who are
+- word: dónde van
+  definition: where do they go
+- word: no sé
+  definition: I don't know
+- word: habla conmigo
+  definition: talks to me
+- word: lugar
+  definition: place
+- word: le gusta
+  definition: he likes
+- word: guardo
+  definition: I keep, I save
+- word: siento
+  definition: I feel
+- word: calor
+  definition: heat, warmth
+- word: pecho
+  definition: chest
+- word: aspirina
+  definition: aspirin
+- word: alma
+  definition: soul
+- word: cura
+  definition: cures, heals
+- word: dolores
+  definition: pains
+- word: llave
+  definition: key
+- word: sol
+  definition: sun
+- word: intenta
+  definition: tries
+- word: salir
+  definition: to go out, to leave
+- word: nubes
+  definition: clouds
+- word: demasiado
+  definition: too much
+- word: fuertes
+  definition: strong
+- word: plaza
+  definition: square (plaza)
+- word: palmeras
+  definition: palm trees
+- word: altas
+  definition: tall
+- word: bajo
+  definition: under
+- word: ladrones
+  definition: thieves
+- word: drogadictos
+  definition: drug addicts
+- word: perdidos
+  definition: lost
+- word: mezcla
+  definition: mix, mixture
+- word: belleza
+  definition: beauty
+- word: miseria
+  definition: misery, poverty
+- word: situado
+  definition: located
+- word: sótano
+  definition: basement
+- word: oscuro
+  definition: dark
+- word: bajo
+  definition: I go down
+- word: escaleras
+  definition: stairs
+- word: cambia
+  definition: changes
+- word: abajo
+  definition: down, below
+- word: invierno
+  definition: winter
+- word: fuerte
+  definition: strong
+- word: antiguo
+  definition: old, ancient
+- word: derramado
+  definition: spilled
+- word: vivo
+  definition: live
+- word: escenario
+  definition: stage
+- word: vacío
+  definition: empty
+- word: silencioso
+  definition: silent
+- word: sombras
+  definition: shadows
+- word: barra
+  definition: bar (counter)
+- word: toca
+  definition: plays (instrument)
+- word: tocó
+  definition: played (past)
+- word: mentiras
+  definition: lies
+- word: mujeres
+  definition: women
+- word: limpiando
+  definition: cleaning
+- word: vaso
+  definition: glass (drinking)
+- word: trapo
+  definition: rag, cloth
+- word: parece
+  definition: seems, appears
+- word: sucio
+  definition: dirty
+- word: qué quieres
+  definition: what do you want
+- word: temprano
+  definition: early
+- word: para ti
+  definition: for you
+- word: duermes
+  definition: you sleep
+- word: hasta
+  definition: until
+- word: carajillo
+  definition: coffee with brandy (Spanish drink)
+- word: elección
+  definition: choice
+- word: hígado
+  definition: liver
+- word: única
+  definition: only
+- word: cabeza
+  definition: head
+- word: sirve
+  definition: serves
+- word: echa
+  definition: pours, throws in
+- word: chorro
+  definition: splash, shot
+- word: bebo
+  definition: I drink
+- word: caliente
+  definition: hot
+- word: quema
+  definition: burns
+- word: garganta
+  definition: throat
+- word: despierta
+  definition: wakes up
+- word: estómago
+  definition: stomach
+- word: sensación
+  definition: feeling, sensation
+- word: conoces
+  definition: do you know (a person)
+- word: segundo
+  definition: second
+- word: oscuros
+  definition: dark (plural)
+- word: cambian
+  definition: change
+- word: muestra
+  definition: shows
+- word: cada
+  definition: each, every
+- word: juegues
+  definition: don't play (command)
+- word: conmigo
+  definition: with me
+- word: paga
+  definition: pays
+- word: pago
+  definition: I pay
+- word: bebidas
+  definition: drinks
+- word: billete
+  definition: bill, banknote, ticket
+- word: coge
+  definition: takes, grabs
+- word: rápidamente
+  definition: quickly
+- word: baja
+  definition: low, soft (voice)
+- word: acercándose
+  definition: approaching, getting close
+- word: viene
+  definition: comes
+- word: viernes
+  definition: Friday
+- word: se sienta
+  definition: sits down
+- word: rincón
+  definition: corner (inside)
+- word: hablar
+  definition: to talk, to speak
+- word: de qué
+  definition: about what
+- word: libros prohibidos
+  definition: forbidden books
+- word: mueren
+  definition: die
+- word: jóvenes
+  definition: young people
+- word: país
+  definition: country
+- word: con quién
+  definition: with whom
+- word: hacia
+  definition: toward
+- word: nervioso
+  definition: nervous
+- word: miedo
+  definition: fear
+- word: estos días
+  definition: these days
+- word: guapa
+  definition: beautiful, pretty
+- word: se llama
+  definition: is called, her name is
+- word: vive
+  definition: lives
+- word: dónde vive
+  definition: where does she live
+- word: trabaja
+  definition: works
+- word: librería
+  definition: bookstore
+- word: antigua
+  definition: old, antique
+- word: termino
+  definition: I finish
+- word: trago
+  definition: sip, gulp
+- word: hace
+  definition: does, makes
+- word: trabajo
+  definition: work, job
+- word: más fuerte
+  definition: stronger
+- word: algo
+  definition: something
+- word: esta noche
+  definition: tonight
+- word: ten cuidado
+  definition: be careful
+- word: mientras
+  definition: while
+- word: limpia
+  definition: cleans
+- word: policía secreta
+  definition: secret police
+- word: arrestó
+  definition: arrested
+- word: dicen
+  definition: they say
+- word: tenían
+  definition: they had
+- word: bombas caseras
+  definition: homemade bombs
+- word: rico
+  definition: rich
+- word: juega
+  definition: plays
+- word: ser
+  definition: to be
+- word: subo
+  definition: I go up
+- word: molesta
+  definition: bothers
+- word: Barrio Gótico
+  definition: Gothic Quarter (Barcelona neighborhood)
+- word: calles
+  definition: streets
+- word: estrechas
+  definition: narrow
+- word: laberintos
+  definition: labyrinths, mazes
+- word: me gustan
+  definition: I like them
+- word: tienen
+  definition: they have
+- word: historia
+  definition: history, story
+- word: como yo
+  definition: like me
+- word: llego
+  definition: I arrive
+- word: estrecha
+  definition: narrow
+- word: granjas
+  definition: cafes (in Catalan context)
+- word: churros
+  definition: churros (fried dough pastry)
+- word: dulce
+  definition: sweet
+- word: escaparate
+  definition: shop window, display window
+- word: está lleno
+  definition: is full
+- word: intento abrir
+  definition: I try to open
+- word: está abierta
+  definition: is open
+- word: campanilla
+  definition: small bell, doorbell
+- word: suena
+  definition: sounds, rings
+- word: mostrador
+  definition: counter
+- word: silencio
+  definition: silence
+- word: pesado
+  definition: heavy
+- word: muerto
+  definition: dead
+- word: escucho
+  definition: I hear, I listen
+- word: ruido
+  definition: noise
+- word: parte de atrás
+  definition: back part
+- word: almacén
+  definition: warehouse, storage
+- word: pila
+  definition: pile, stack
+- word: libros
+  definition: books
+- word: cae
+  definition: falls
+- word: cuerpo
+  definition: body
+- word: despacio
+  definition: slowly
+- word: fondo
+  definition: back, bottom
+- word: cruje
+  definition: creaks
+- word: zapatos
+  definition: shoes
+- word: respuesta
+  definition: answer, response
+- word: busco
+  definition: I look for
+- word: interruptor
+  definition: light switch
+- word: bombilla
+  definition: light bulb
+- word: parpadea
+  definition: blinks, flickers
+- word: estanterías
+  definition: shelves, bookcases
+- word: caídas
+  definition: fallen
+- word: por todas partes
+  definition: everywhere
+- word: papeles
+  definition: papers
+- word: rotos
+  definition: broken, torn
+- word: centro
+  definition: center
+- word: bata
+  definition: smock, robe
+- word: tendero
+  definition: shopkeeper
+- word: gafas
+  definition: glasses (eyeglasses)
+- word: rotas
+  definition: broken
+- word: cuchillo
+  definition: knife
+- word: cocina
+  definition: kitchen
+- word: clavado
+  definition: stuck, stabbed
+- word: mucha sangre
+  definition: a lot of blood
+- word: sangre
+  definition: blood
+- word: manchado
+  definition: stained
+- word: brillante
+  definition: bright, shiny
+- word: palabras
+  definition: words
+- word: cubierto
+  definition: covered
+- word: me acerco
+  definition: I approach
+- word: cuello
+  definition: neck
+- word: pulso
+  definition: pulse
+- word: piel
+  definition: skin
+- word: todavía
+  definition: still
+- word: acaba de
+  definition: has just
+- word: mierda
+  definition: shit (vulgar)
+- word: susurro
+  definition: I whisper
+- word: algo
+  definition: something
+- word: terrible
+  definition: terrible
+- word: sirenas
+  definition: sirens
+- word: muy cerca
+  definition: very close
+- word: se detienen
+  definition: they stop
+- word: delante de
+  definition: in front of
+- word: tienda
+  definition: shop, store
+- word: llamó
+  definition: called
+- word: antes de que
+  definition: before
+- word: llegara
+  definition: I arrived (past subjunctive)
+- word: trampa
+  definition: trap
+- word: mala suerte
+  definition: bad luck
+- word: de pie
+  definition: standing
+- word: cadáver
+  definition: corpse, dead body
+- word: huellas
+  definition: fingerprints, footprints
+- word: olor
+  definition: smell, odor
+- word: aliento
+  definition: breath
+- word: va a ser
+  definition: is going to be
+- word: muy largo
+  definition: very long

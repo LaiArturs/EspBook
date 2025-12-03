@@ -18,3 +18,53 @@ body {
   line-height: 1.3;
   font-size: inherit; /* html already uses var(--font-size) */
 }
+
+/* Tooltip styling for Spanish word definitions */
+.tooltip {
+  position: relative;
+  text-decoration: underline;
+}
+
+.tooltip:hover {
+  background-color: #fff3cd;
+  border-radius: 2px;
+}
+
+/* Tooltip text appears in browser's native tooltip on hover via title attribute */
+.tooltip::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  z-index: 1000;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  font-style: normal;
+}
+
+.tooltip::before {
+  content: '';
+  position: absolute;
+  bottom: 115%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: #333;
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: none;
+}
+
+.tooltip:hover::after,
+.tooltip:hover::before {
+  opacity: 1;
+}
