@@ -67,13 +67,15 @@ mesa, cruzo las manos y cierro los ojos. Intento recordar dónde puse mi
 
 De repente, alguien golpea la puerta con fuerza.
 
-Toc. Toc. Toc.
+_Toc. Toc. Toc._
 
 No quiero abrir. Quiero dormir. Quiero olvidar mi dolor de cabeza.
 
 —Está cerrado —grito con voz ronca. —Vuelva mañana. O nunca.
 
-—Señor Beltrán, por favor —dice una voz de mujer. No es la voz de una
+—Señor Beltrán, por favor —dice una voz de mujer.
+
+No es la voz de una
 vendedora. Es una voz suave. Una voz educada. Una voz con dinero.
 
 Me levanto y abro la puerta.
