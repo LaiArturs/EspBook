@@ -22,7 +22,10 @@ solo ojos oscuros detrás de los visores.
 
 De repente, un silbato suena. _Fiiiit._
 Los estudiantes empiezan a correr.
-—¡Libertad! ¡Amnistía! —gritan. Sus voces son jóvenes y fuertes.
+
+—¡Libertad! ¡Amnistía! —gritan. 
+
+Sus voces son jóvenes y fuertes.
 La policía carga. El suelo tiembla con sus botas. Corren detrás de los
 estudiantes. Golpean con las porras sin piedad.
 _Pam, pam, pam._ El sonido de la goma contra la carne es terrible.
@@ -79,34 +82,41 @@ la puerta principal en cualquier momento.
 
 Me siento en una silla frente a él.
 
-—Es sobre Javier Boix. El hijo del industrial Carlos Boix. Y sobre la librería
-
-Lletraferit.
+—Es sobre Javier Boix. El hijo del industrial Carlos Boix. Y sobre la librería Lletraferit.
 
 Riera se detiene. Su cara se pone blanca como el papel. Deja caer un libro.
+
 —¿Javier? —susurra. —Ese chico es un estúpido. Un niño rico que juega a ser
 Che Guevara.
+
 —Su madre me paga para encontrarlo. Y el dueño de la librería, el viejo Valls,
 está muerto. Un cuchillo en la tripa.
 
 Riera se sienta en su silla. Parece muy viejo de repente. Saca una botella de
 whisky de un cajón y bebe un trago largo. No me ofrece nada.
+
 —Lo sé —dice Riera. —Lo escuché en la radio. Valls era un buen hombre. Un
 idealista. Guardaba libros prohibidos que nadie más quería. Libros de Marx, de
 Bakunin...
 
 —La policía dice que fue un robo normal —digo.
+
 —¡Mentira! —grita Riera. —No fue un robo normal. Morales lo mató. O sus hombres.
+
 —¿Por qué?
+
 —Escucha, Héctor. Javier y su novia francesa, Solange... ellos robaron algo de
 la librería ayer. Pensaban que era un libro de teoría política para su grupo
 revolucionario. Pero Valls me llamó anoche. Estaba aterrorizado. Me dijo que era
 algo más peligroso.
 
 —¿Qué es? —pregunto. —¿Oro? ¿Diamantes?
+
 —Peor. Lo llaman "El Libro Negro". No es una novela. Es un registro contable.
 Un cuaderno pequeño.
+
 —¿Un cuaderno?
+
 —Sí. El abuelo de Valls era banquero antes de la Guerra Civil. Ese libro tiene
 nombres. Fechas. Cuentas en Suiza. Dinero sucio del estraperlo y de los
 sobornos. Pruebas de corrupción de la gente más importante de Barcelona. Jueces,
@@ -115,27 +125,34 @@ policías, políticos...
 Miro a Riera. Siento un frío en el estómago. Ahora entiendo por qué el
 Inspector Morales está tan interesado. Ese libro es una bomba nuclear en
 Barcelona.
+
 —¿El nombre de Carlos Boix está en el libro?
+
 —Por supuesto. Boix hizo su fortuna con el régimen. Si ese libro sale a la luz,
 Boix está acabado. Y Morales también.
 
 —¿Dónde están los chicos, Riera? Necesito encontrarlos antes que Morales.
 Morales no va a arrestarlos. Va a matarlos.
 
-Riera cierra su maleta. Escuchamos un golpe fuerte abajo. BUM. La puerta
+Riera cierra su maleta. Escuchamos un golpe fuerte abajo. _BUM._ La puerta
 principal de la universidad ha caído.
+
 —¡Ya están aquí! —dice Riera con pánico.
+
 —¡Dímelo, viejo!
 
 —Javier no lo sé. Creo que quiere vender el libro. Pero Solange... ella es
-diferente. Ella es una verdadera creyente. Ella vive en una casa ocupada
-("okupa") en el barrio de Poble Sec. En la calle Blai. Número 24.
+diferente. Ella es una verdadera creyente. Ella vive en una casa ocupada en el barrio de Poble Sec. En la calle Blai. Número 24.
+
 —Gracias, viejo.
+
 —Ten cuidado, Héctor. Ese libro puede matar a Franco, pero también puede
 matarte a ti. Y a mí.
 
 Escucho gritos en el pasillo. Botas corriendo.
+
 —¡Policía! ¡Salgan con las manos arriba!
+
 —¡Vete, Héctor! —grita Riera. —¡Yo los distraigo!
 
 Riera sale al pasillo gritando insultos a la policía. Es un acto valiente o
