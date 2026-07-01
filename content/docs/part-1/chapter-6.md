@@ -165,11 +165,8 @@ decisión rápida. Y sé que probablemente voy a arrepentirme.
 ## Grammar Note
 
 * **Prepositions of place:** Frente a (in front of), Cerca de (near).
-
 * **Future Tense:** Vendría (He would come - Conditional used for reported
   speech in past), Va a pagar (He is going to pay).
-
 * **Similes (Comparisons):** Negro como la tinta (Black like ink), Como un gato
   asustado (Like a scared cat). Common in descriptive writing.
-
 * **Imperative:** Dame (Give me), Vete (Go away).

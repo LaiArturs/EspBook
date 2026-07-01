@@ -29,3 +29,13 @@ hugo new content docs/chapter-1/_index.md
 # Create a section inside Chapter 1
 hugo new content docs/chapter-1/section-1.md
 ```
+
+## Formatting Content
+
+To ensure consistent dialogue spacing (blank lines before and after dialogue 
+lines) and line lengths (wrapped at 80 characters) across all book chapters,
+run the formatting script:
+
+```sh
+python3 scripts/format_book.py
+```

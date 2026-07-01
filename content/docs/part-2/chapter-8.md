@@ -75,6 +75,7 @@ Javier se lleva las manos a la cabeza. Sus ojos se llenan de dolor.
 ayudó.
 
 —Tu padre compró la paz con dinero sucio. Y Morales es su cobrador —digo yo.
+
 —Por eso Morales mató al librero Valls. El librero sabía demasiado.
 
 —Esto es horrible, Héctor. Es el fin de todo.

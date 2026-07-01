@@ -188,8 +188,6 @@ corta.
 * **Si fuera... estaríais:** "If I were... you would be". This is the Second
   Conditional. Even at A2, understanding this structure is useful as a set
   phrase. Si fuera rico, compraría un coche (If I were rich, I would buy a car).
-
 * **Se ha ido:** "He has left/gone". From the reflexive verb Irse (to leave).
   The structure is Irse (to leave a place) vs Ir (to go to a place).
-
 * **De dos en dos:** "Two at a time" (referring to the stairs).
