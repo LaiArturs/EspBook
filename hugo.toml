@@ -5,3 +5,4 @@ theme = 'hugo-book'
 
 [params] 
 BookSearch = true
+BookTheme = 'auto'

@@ -6,6 +6,7 @@
 :root {
   /* increase base font size (theme default is 16px) */
   --font-size: 1.3rem;
+  color-scheme: light dark;
 }
 
 /* Make the site use a serif typeface (falling back to common serif stacks) */
@@ -28,6 +29,13 @@ body {
 .tooltip:hover {
   background-color: #fff3cd;
   border-radius: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .tooltip:hover {
+    background-color: #5c6165;
+    color: #ffffff;
+  }
 }
 
 /* Tooltip text appears in browser's native tooltip on hover via title attribute */
