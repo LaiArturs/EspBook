@@ -36,6 +36,7 @@ acumulada durante casi cuarenta años de dictadura, miedo y silencio en las
 calles.
 
 —Ha muerto en su cama del hospital —susurra ella con los ojos fijos en la radio.
+
 —¿Qué va a pasar ahora, Héctor? ¿Va a haber otra guerra civil? Tengo miedo de
 los militares.
 

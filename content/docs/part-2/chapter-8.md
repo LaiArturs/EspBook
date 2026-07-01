@@ -110,6 +110,7 @@ ejecutor.
 
 —Tu padre compró la paz y la riqueza de su familia con dinero sucio. Y Morales
 es su cobrador, el hombre que hace el trabajo sucio —digo yo con voz tranquila.
+
 —Por eso Morales mató al librero Valls. El librero descubrió este cuaderno y
 sabía demasiado.
 
