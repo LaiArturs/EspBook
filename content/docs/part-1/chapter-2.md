@@ -21,8 +21,8 @@ vivo. El escenario está vacío. Solo hay un piano silencioso y muchas sombras.
 
 En la barra está "El Gato". Es un hombre negro, americano. Toca la trompeta como
 un ángel y bebe como un demonio. Dicen que tocó con Miles Davis en París, pero
-"El Gato" dice muchas mentiras, especialmente a las mujeres.
-Él está limpiando un vaso con un trapo que parece más sucio que el vaso.
+"El Gato" dice muchas mentiras, especialmente a las mujeres. Él está limpiando
+un vaso con un trapo que parece más sucio que el vaso.
 
 —Hola, Héctor —dice El Gato con su acento fuerte. —¿Qué quieres? Es temprano
 para ti. Normalmente duermes hasta la una.
@@ -35,8 +35,8 @@ para ti. Normalmente duermes hasta la una.
 
 El Gato sirve el café y echa un chorro generoso de brandy Veterano. Bebo un
 poco. El alcohol caliente quema mi garganta y despierta mi estómago. Es una
-buena sensación.
-Saco la foto del chico, Javier Boix, y la pongo sobre la madera de la barra.
+buena sensación. Saco la foto del chico, Javier Boix, y la pongo sobre la madera
+de la barra.
 
 —¿Conoces a este chico? —pregunto directamente.
 
@@ -47,8 +47,7 @@ emoción.
 
 —No juegues conmigo, Gato. No hoy. Su madre me paga bien y yo pago mis bebidas.
 
-Pongo un billete sobre la barra.
-El Gato coge el billete rápidamente.
+Pongo un billete sobre la barra. El Gato coge el billete rápidamente.
 
 —Es un estudiante —dice El Gato en voz baja, acercándose a mí. —Viene aquí los
 viernes por la noche. Se sienta en esa mesa del rincón. Le gusta el jazz
@@ -83,57 +82,48 @@ Dicen que tenían bombas caseras. La gente está nerviosa.
 —Yo no busco bombas. Busco a un niño rico que juega a ser revolucionario.
 
 Salgo del bar y subo las escaleras hacia la luz. La luz del día me molesta en
-los ojos. Camino por el Barrio Gótico. Las calles son estrechas, como
-laberintos de piedra. Me gustan estas calles. Tienen secretos. Tienen historia.
-Como yo.
+los ojos. Camino por el Barrio Gótico. Las calles son estrechas, como laberintos
+de piedra. Me gustan estas calles. Tienen secretos. Tienen historia. Como yo.
 
 Llego a la calle Petritxol. Es una calle estrecha, famosa por sus granjas de
 chocolate con churros. Huele a chocolate dulce, pero yo no quiero chocolate.
-Busco la librería Lletraferit.
-Veo el escaparate. Está lleno de polvo. Hay libros de Gabriel García Márquez,
-Cortázar y Mario Vargas Llosa. El "Boom" latinoamericano. También hay libros de
-filosofía.
+Busco la librería Lletraferit. Veo el escaparate. Está lleno de polvo. Hay
+libros de Gabriel García Márquez, Cortázar y Mario Vargas Llosa. El "Boom"
+latinoamericano. También hay libros de filosofía.
 
-Intento abrir la puerta. Está abierta. Una campanilla suena cuando entro.
-_Ding-dong._
+Intento abrir la puerta. Está abierta. Una campanilla suena cuando entro. _Ding-
+dong._
 
 —¿Hola? —grito.
 
 No hay nadie en el mostrador. El silencio es pesado. No es un silencio normal.
-Es un silencio muerto.
-Escucho un ruido en la parte de atrás, en el almacén. Un ruido fuerte. Como una
-pila de libros que cae al suelo. O un cuerpo.
+Es un silencio muerto. Escucho un ruido en la parte de atrás, en el almacén. Un
+ruido fuerte. Como una pila de libros que cae al suelo. O un cuerpo.
 
 Camino despacio hacia el fondo. El suelo de madera cruje bajo mis zapatos.
 
 —¿Solange? ¿Hola?
 
-No hay respuesta.
-Entro en el almacén. Está oscuro. Busco el interruptor y enciendo la luz. La
-bombilla parpadea.
-El lugar es un desastre total. Hay estanterías caídas. Hay libros por todas
-partes en el suelo. Papeles rotos.
+No hay respuesta. Entro en el almacén. Está oscuro. Busco el interruptor y
+enciendo la luz. La bombilla parpadea. El lugar es un desastre total. Hay
+estanterías caídas. Hay libros por todas partes en el suelo. Papeles rotos.
 
-Y en el centro del caos, hay un hombre.
-No es Javier. Es un hombre viejo, con el pelo blanco. Lleva una bata gris de
-tendero. Tiene las gafas rotas en el suelo.
-Y tiene un cuchillo de cocina clavado en el estómago.
-Hay mucha sangre. La sangre ha manchado los libros. Sangre roja y brillante
-sobre las palabras negras. Don Quijote está cubierto de sangre.
+Y en el centro del caos, hay un hombre. No es Javier. Es un hombre viejo, con el
+pelo blanco. Lleva una bata gris de tendero. Tiene las gafas rotas en el suelo.
+Y tiene un cuchillo de cocina clavado en el estómago. Hay mucha sangre. La
+sangre ha manchado los libros. Sangre roja y brillante sobre las palabras
+negras. Don Quijote está cubierto de sangre.
 
 Me acerco. Toco su cuello. No hay pulso. La piel está todavía caliente. Acaba de
 morir.
 
 —Mierda —susurro. —Mierda, mierda, mierda.
 
-En ese momento, escucho algo terrible. Sirenas.
-_Nino-nino-nino._
-Las sirenas de la policía. Están muy cerca. Se detienen delante de la tienda.
-Alguien llamó a la policía antes de que yo llegara. Es una trampa. O mala
-suerte.
-Y yo estoy aquí, de pie, con un cadáver caliente, mis huellas en la puerta y
-olor a brandy en mi aliento.
-Esto va a ser un día muy largo.
+En ese momento, escucho algo terrible. Sirenas. _Nino-nino-nino._ Las sirenas de
+la policía. Están muy cerca. Se detienen delante de la tienda. Alguien llamó a
+la policía antes de que yo llegara. Es una trampa. O mala suerte. Y yo estoy
+aquí, de pie, con un cadáver caliente, mis huellas en la puerta y olor a brandy
+en mi aliento. Esto va a ser un día muy largo.
 
 ## Vocabulario
 
@@ -157,7 +147,7 @@ Esto va a ser un día muy largo.
 ## Grammar Note
 
 * **Impersonal "Se":** Se sienta (He sits), Se detienen (They stop).
-* **Present Perfect Context:** "Ha desaparecido" (He has disappeared) vs "Acaba de
-  morir" (He has just died).
+* **Present Perfect Context:** "Ha desaparecido" (He has disappeared) vs "Acaba
+  de morir" (He has just died).
 * **Comparisons:** Más sucio que el vaso (Dirtier than the glass).
 

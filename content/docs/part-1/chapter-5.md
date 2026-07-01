@@ -5,37 +5,34 @@ weight: 5
 
 # 1.5. La Casa Ocupada (The Squat)
 
-El taxi me deja en la Avenida Paralelo. Tengo que caminar hacia arriba. El barrio
-de Poble Sec está a los pies de la montaña de Montjuïc. Es un laberinto de
-sombras. Es un barrio de trabajadores cansados, calles empinadas y bares baratos
-donde el vino sabe a vinagre.
-Llego a la calle Blai. Las luces de las farolas son débiles y amarillas. Hace
-frío y viento.
+El taxi me deja en la Avenida Paralelo. Tengo que caminar hacia arriba. El
+barrio de Poble Sec está a los pies de la montaña de Montjuïc. Es un laberinto
+de sombras. Es un barrio de trabajadores cansados, calles empinadas y bares
+baratos donde el vino sabe a vinagre. Llego a la calle Blai. Las luces de las
+farolas son débiles y amarillas. Hace frío y viento.
 
 El número 24 es un edificio viejo, casi una ruina. La fachada está sucia. La
-puerta principal está pintada con símbolos anarquistas, estrellas rojas y
-flores de colores. Alguien ha escrito en la pared: "La imaginación al poder".
+puerta principal está pintada con símbolos anarquistas, estrellas rojas y flores
+de colores. Alguien ha escrito en la pared: "La imaginación al poder".
 
 Empujo la puerta. No hay cerradura. La puerta se abre con un ruido triste.
-_Ñiic._
-Dentro huele fuerte. Es una mezcla de olores: huele a marihuana dulce, a incienso
-barato de la India, a comida vegetariana y a humedad. Es el olor de la
+_Ñiic._ Dentro huele fuerte. Es una mezcla de olores: huele a marihuana dulce, a
+incienso barato de la India, a comida vegetariana y a humedad. Es el olor de la
 revolución pobre.
 
 Subo las escaleras. Los escalones son de madera y están gastados. No hay luz en
-la escalera. Tengo que usar mi mechero para ver.
-En el primer piso, la puerta está abierta. Escucho música. Alguien toca una
-guitarra española. Toca mal, pero con pasión.
-Entro. Hay un grupo de cinco o seis jóvenes sentados en el suelo. Tienen el pelo
-largo y ropa vieja. Fuman y beben té. Me miran con sospecha. El guitarrista
-para de tocar.
+la escalera. Tengo que usar mi mechero para ver. En el primer piso, la puerta
+está abierta. Escucho música. Alguien toca una guitarra española. Toca mal, pero
+con pasión. Entro. Hay un grupo de cinco o seis jóvenes sentados en el suelo.
+Tienen el pelo largo y ropa vieja. Fuman y beben té. Me miran con sospecha. El
+guitarrista para de tocar.
 
 —Busco a Solange —digo. Mi voz suena demasiado fuerte en la habitación.
 
 Un chico con barba negra y gafas redondas se levanta.
 
-—¿Quién eres tú, abuelo? —pregunta. —¿Eres de la policía secreta? Tienes cara
-de policía.
+—¿Quién eres tú, abuelo? —pregunta. —¿Eres de la policía secreta? Tienes cara de
+policía.
 
 —Si fuera policía, ya estaríais todos en la cárcel o en el hospital. Soy un
 amigo de Javier. Y de Riera.
@@ -53,30 +50,28 @@ El chico de la barba señala hacia el techo con el dedo.
 ella.
 
 Subo dos pisos más. Mis piernas duelen. Soy demasiado viejo para subir escaleras
-en la oscuridad.
-Toco la puerta del tercero.
+en la oscuridad. Toco la puerta del tercero.
 
 —¡Vete! ¡Déjame en paz! —grita una voz de mujer desde dentro. Tiene un acento
 fuerte, francés.
 
 —Solange. Soy Héctor Beltrán. El Profesor Riera me envía.
 
-Hay un silencio largo. Escucho pasos ligeros.
-La puerta se abre despacio, solo un poco. La cadena de seguridad está puesta.
-Veo un ojo azul brillante y asustado.
+Hay un silencio largo. Escucho pasos ligeros. La puerta se abre despacio, solo
+un poco. La cadena de seguridad está puesta. Veo un ojo azul brillante y
+asustado.
 
 —¿Riera? ¿Él está bien?
 
 —Riera está en problemas. La policía ha entrado en la universidad. Él me dio tu
 dirección.
 
-Ella cierra la puerta para quitar la cadena y abre de nuevo.
-Solange es muy joven, quizás tiene veinte años. Es guapa, con el pelo corto y
-rubio, pero parece muy cansada. Tiene ojeras oscuras bajo los ojos. Lleva un
-jersey de lana muy grande y pantalones vaqueros sucios.
-Entro en la habitación. Es un lugar triste. Hay un colchón en el suelo, muchos
-libros apilados y velas encendidas. En la pared hay un póster del Che Guevara.
-Hace frío aquí dentro.
+Ella cierra la puerta para quitar la cadena y abre de nuevo. Solange es muy
+joven, quizás tiene veinte años. Es guapa, con el pelo corto y rubio, pero
+parece muy cansada. Tiene ojeras oscuras bajo los ojos. Lleva un jersey de lana
+muy grande y pantalones vaqueros sucios. Entro en la habitación. Es un lugar
+triste. Hay un colchón en el suelo, muchos libros apilados y velas encendidas.
+En la pared hay un póster del Che Guevara. Hace frío aquí dentro.
 
 —¿Dónde está Javier? —pregunto directamente.
 
@@ -125,8 +120,8 @@ con su padre.
 
 —¿Dónde es la reunión?
 
-—En el puerto. Cerca de las Golondrinas. Dijo que es un lugar seguro y
-discreto por la noche.
+—En el puerto. Cerca de las Golondrinas. Dijo que es un lugar seguro y discreto
+por la noche.
 
 Me levanto rápido. Siento una piedra en el estómago.
 
@@ -149,11 +144,10 @@ Salgo corriendo de la habitación.
 —¡Espera! —grita Solange.
 
 No espero. Bajo las escaleras de dos en dos. Casi me caigo en la oscuridad.
-Salgo a la calle Blai. El aire frío golpea mi cara.
-El puerto está lejos. Necesito un taxi.
-Es difícil encontrar un taxi en Barcelona a las tres de la mañana, pero tengo
-suerte. Un taxi negro y amarillo para delante de mí.
-Subo al coche.
+Salgo a la calle Blai. El aire frío golpea mi cara. El puerto está lejos.
+Necesito un taxi. Es difícil encontrar un taxi en Barcelona a las tres de la
+mañana, pero tengo suerte. Un taxi negro y amarillo para delante de mí. Subo al
+coche.
 
 —Al puerto —digo al conductor. —Al monumento a Colón. Y rápido. La vida es
 corta.
@@ -193,8 +187,7 @@ corta.
 
 * **Si fuera... estaríais:** "If I were... you would be". This is the Second
   Conditional. Even at A2, understanding this structure is useful as a set
-  phrase. Si fuera rico, compraría un coche (If I were rich, I would buy a
-  car).
+  phrase. Si fuera rico, compraría un coche (If I were rich, I would buy a car).
 
 * **Se ha ido:** "He has left/gone". From the reflexive verb Irse (to leave).
   The structure is Irse (to leave a place) vs Ir (to go to a place).
