@@ -1,5 +1,7 @@
 # Sombras de Barcelona (Shadows of Barcelona)
 
+![Sombras de Barcelona](/images/cover.png)
+
 _Sombras de Barcelona_ is a novel written in A2 Spanish level intended for
 people new to the language help improve their Spanish in fun and engaging way.
 

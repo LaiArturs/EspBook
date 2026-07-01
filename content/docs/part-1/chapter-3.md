@@ -5,6 +5,8 @@ weight: 3
 
 # 1.3. La Huida y el Inspector (The Escape and the Inspector)
 
+![Illustration](/images/chapter-3.png)
+
 No puedo salir por la puerta principal. Veo las luces azules de la policía
 reflejadas en el escaparate. Si salgo ahora, estoy muerto. O peor, estaré en una
 celda de la comisaría de Via Laietana. Y en Via Laietana, los detenidos a veces

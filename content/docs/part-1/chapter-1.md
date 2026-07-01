@@ -5,6 +5,8 @@ weight: 1
 
 # 1.1. La Mosca y el Vino (The Fly and the Wine)
 
+![Illustration](/images/chapter-1.png)
+
 Me despierto a las once de la mañana. La luz entra por la ventana sucia. Es una
 luz gris, enferma. Mi cabeza duele. Duele mucho. Es como un tambor dentro de mi
 cerebro. _Bum, bum, bum._

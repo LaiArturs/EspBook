@@ -5,6 +5,8 @@ weight: 6
 
 # 2.6. Sombras y Luces (Shadows and Lights)
 
+![Illustration](/images/chapter-12.png)
+
 Tengo el sobre grueso con el dinero y los dos billetes de tren en la mano.
 Carlos Boix ha cumplido su palabra de forma rápida. Sé que no lo ha hecho por
 amor a su hijo Javier, sino por un miedo profundo al escándalo y al Libro Negro.

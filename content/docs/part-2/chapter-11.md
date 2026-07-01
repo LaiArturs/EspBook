@@ -5,6 +5,8 @@ weight: 5
 
 # 2.5. La Caída de los Dioses (The Fall of the Gods)
 
+![Illustration](/images/chapter-11.png)
+
 Morales apunta con la pistola Colt directamente a mi pecho. Su mano derecha
 tiembla un poco por la tensión y el cansancio, pero sus ojos oscuros son los de
 un asesino acorralado y desesperado. Sabe que si yo salgo de esta casa con el

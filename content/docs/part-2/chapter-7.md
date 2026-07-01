@@ -5,6 +5,8 @@ weight: 1
 
 # 2.1. El Salto al Vacío (The Leap of Faith)
 
+![Illustration](/images/chapter-7.png)
+
 No hay tiempo para pensar. Morales levanta la pistola despacio. El cañón de
 metal brilla bajo la luz de la luna. Sus ojos son oscuros y fríos detrás de las
 gafas de sol. Va a disparar. Lo sé. Conozco a los hombres como Morales. Él no

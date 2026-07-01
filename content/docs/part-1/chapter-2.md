@@ -5,6 +5,8 @@ weight: 2
 
 # 1.2. Jazz, Humo y Sangre (Jazz, Smoke, and Blood)
 
+![Illustration](/images/chapter-2.png)
+
 Guardo el dinero en mi bolsillo interior. Siento el calor de los billetes contra
 mi pecho. Ahora me siento mejor. El dinero es como una aspirina para el alma,
 cura todos los dolores.

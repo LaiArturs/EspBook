@@ -5,6 +5,8 @@ weight: 4
 
 # 2.4. La Villa de Sarrià (The Sarrià Villa)
 
+![Illustration](/images/chapter-10.png)
+
 El taxi sube despacio por las calles empinadas hacia el norte de la ciudad. El
 trayecto desde el Barrio Chino hasta el barrio de Sarrià parece un viaje entre
 dos mundos diferentes. Aquí, las calles son amplias, tranquilas y extremadamente

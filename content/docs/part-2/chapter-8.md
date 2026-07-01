@@ -5,6 +5,8 @@ weight: 2
 
 # 2.2. La Guarida del Gato (The Cat's Lair)
 
+![Illustration](/images/chapter-8.png)
+
 Caminamos por las calles estrechas y silenciosas del Barrio Gótico. Evitamos las
 avenidas grandes y las plazas abiertas. En cada esquina puede haber una patrulla
 de los Grises. Mis botas húmedas hacen un ruido suave en las piedras mojadas. El

@@ -5,6 +5,8 @@ weight: 3
 
 # 2.3. La Radio en Silencio (The Radio in Silence)
 
+![Illustration](/images/chapter-9.png)
+
 A las seis de la mañana, salimos del Jamboree. La niebla del puerto se levanta
 lentamente sobre los tejados del Barrio Gótico. La Plaza Real está vacía, pero
 en el aire hay una vibración extraña, una tensión que se puede sentir en la

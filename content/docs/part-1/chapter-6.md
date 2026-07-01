@@ -5,6 +5,8 @@ weight: 6
 
 # 1.6. Niebla en el Puerto (Fog in the Port)
 
+![Illustration](/images/chapter-6.png)
+
 El taxi me deja frente al monumento a Colón. El conductor no dice nada, solo
 cobra y se va rápido. Nadie quiere estar en el puerto a estas horas. El mar está
 negro como la tinta y peligrosamente tranquilo. Hay mucha niebla esta noche. La

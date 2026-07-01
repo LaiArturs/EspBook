@@ -5,6 +5,8 @@ weight: 4
 
 # 1.4. La Universidad y las Piedras (The University and the Stones)
 
+![Illustration](/images/chapter-4.png)
+
 Salgo del Barrio Chino y camino hacia la Plaza Universidad. Es de noche, pero la
 plaza no está oscura. Está iluminada por el fuego de las barricadas. La plaza
 está llena de gente. No son turistas con cámaras. No son familias paseando. Son

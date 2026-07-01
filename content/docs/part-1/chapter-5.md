@@ -5,6 +5,8 @@ weight: 5
 
 # 1.5. La Casa Ocupada (The Squat)
 
+![Illustration](/images/chapter-5.png)
+
 El taxi me deja en la Avenida Paralelo. Tengo que caminar hacia arriba. El
 barrio de Poble Sec está a los pies de la montaña de Montjuïc. Es un laberinto
 de sombras. Es un barrio de trabajadores cansados, calles empinadas y bares

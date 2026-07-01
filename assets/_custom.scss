@@ -68,3 +68,14 @@ body {
 .tooltip:hover::before {
   opacity: 1;
 }
+
+/* Book illustration image styling */
+.markdown img {
+  display: block;
+  margin: 2rem auto; /* Centered with breathing room */
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; /* Premium rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Soft print-like shadow */
+}
+
