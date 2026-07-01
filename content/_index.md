@@ -8,7 +8,13 @@ people new to the language help improve their Spanish in fun and engaging way.
 * **Setting:** Barcelona, November 1975 (The month dictator Francisco Franco
   died).
 
-[To 1st chapter](./docs/part-1/chapter-1)
+### Structure of the Novel (Estructura de la Novela)
+
+* **[Part 1: El Invierno Gris (The Grey Winter)](./docs/part-1/)**
+* **[Part 2: La Noche Más Larga (The Longest Night)](./docs/part-2/)**
+
+[Start Reading (Part 1, Chapter 1)](./docs/part-1/chapter-1)
+
 
 ## Introduction for the Reader (Introducción)
 
@@ -68,6 +74,26 @@ police (Los Grises) are aggressive and nervous. In Barcelona, the air is heavy.
 Students protest in the university. Writers and artists (the Gauche Divine) 
 drink in the bars of the Gothic Quarter. It is a time of shadows, fear, and a 
 little bit of hope.
+
+### Historical and Geographical Realism (Realismo Histórico y Geográfico)
+
+The novel is grounded in real historical and geographical research of 1970s
+Barcelona, allowing readers to learn about Spanish culture and history as they
+read:
+
+* **Geographical Realism:** Almost all locations in the book are real. Héctor's
+apartment is in *El Raval* (the historic *Barrio Chino*), and his story takes
+him through real places like *Plaça Reial*, *Calle Petritxol*, *Poble Sec*, and
+the wealthy *Sarrià* neighborhood. Iconic landmarks like *Bar Marsella*
+(Barcelona's oldest bar, famous for absinthe since 1820) and the legendary
+*Jamboree* jazz club serve as atmospheric backdrops.
+
+* **Historical Realism:** Set in November 1975 on the eve of the death of
+dictator Francisco Franco. The book realistically depicts the tension of the
+Spanish Transition, the crackdowns by the *Policía Armada* (known as
+*"Los Grises"* due to their grey uniforms), the student protests at the
+University of Barcelona, and the notorious political police headquarters on
+*Via Laietana*.
 
 ## Contributing (Contribuyendo)
 
