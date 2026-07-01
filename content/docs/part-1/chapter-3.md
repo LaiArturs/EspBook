@@ -17,7 +17,7 @@ atleta olímpico. Pero el miedo es una gasolina muy potente. Me da energía.
 
 Muevo una caja pesada de enciclopedias debajo de la ventana. Subo a la caja. Mis
 rodillas protestan. Abro la ventana. Está dura, oxidada. Empujo con fuerza.
-Crak. Se abre.
+_Crak._ Se abre.
 Escucho golpes en la puerta principal.
 —¡Policía! ¡Abran la puerta!
 
@@ -30,7 +30,7 @@ Corro. Corro rápido por las calles oscuras del Barrio Gótico.
 Llego a la plaza de la Catedral. Hay muchos turistas mirando la arquitectura y
 muchas palomas volando bajo. Me mezclo con los turistas. Camino más despacio
 ahora. Respiro fuerte. Mi corazón late como un animal atrapado en mi pecho.
-Bum, bum, bum. Necesito un trago. Necesito calmarme.
+_Bum, bum, bum._ Necesito un trago. Necesito calmarme.
 
 Voy al bar Marsella. Es el refugio perfecto. Es el bar más antiguo de
 Barcelona. Las paredes están amarillas por el humo de cien años. El techo es

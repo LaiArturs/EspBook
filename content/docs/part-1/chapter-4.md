@@ -160,7 +160,7 @@ estúpido. Probablemente estúpido.
 Yo abro la ventana del despacho. Da al jardín interior, el Claustro. Está
 oscuro y tranquilo. Los gatos de la universidad viven allí.
 Salgo por la ventana. Me agarro a una tubería vieja y oxidada.
-Bajo despacio. La tubería cruje. Creeeec.
+Bajo despacio. La tubería cruje. _Creeeec._
 Salto los últimos dos metros y caigo en la hierba húmeda.
 
 Arriba, escucho la voz de Riera y después un golpe seco. Y silencio.

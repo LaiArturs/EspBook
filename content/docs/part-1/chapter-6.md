@@ -14,7 +14,7 @@ la oscuridad. Es una noche perfecta para un crimen, o para un adiós.
 
 Camino hacia la zona de las Golondrinas. Son los famosos barcos de madera para
 turistas, pero ahora están vacíos y silenciosos. El agua sucia del puerto golpea
-la madera con un ritmo triste. Clop, clop, clop.
+la madera con un ritmo triste. _Clop, clop, clop._
 Hace mucho frío. El frío entra en mis huesos viejos. Me subo el cuello del
 abrigo para protegerme, pero no sirve de nada.
 Huele a sal, a gasolina y a pescado podrido. Es el olor de la verdad en esta

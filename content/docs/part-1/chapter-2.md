@@ -95,7 +95,7 @@ Cortázar y Mario Vargas Llosa. El "Boom" latinoamericano. También hay libros d
 filosofía.
 
 Intento abrir la puerta. Está abierta. Una campanilla suena cuando entro.
-Ding-dong.
+_Ding-dong._
 
 —¿Hola? —grito.
 

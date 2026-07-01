@@ -17,7 +17,7 @@ puerta principal está pintada con símbolos anarquistas, estrellas rojas y
 flores de colores. Alguien ha escrito en la pared: "La imaginación al poder".
 
 Empujo la puerta. No hay cerradura. La puerta se abre con un ruido triste.
-Ñiic.
+_Ñiic._
 Dentro huele fuerte. Es una mezcla de olores: huele a marihuana dulce, a incienso
 barato de la India, a comida vegetariana y a humedad. Es el olor de la
 revolución pobre.
