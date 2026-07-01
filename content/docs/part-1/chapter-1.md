@@ -23,7 +23,6 @@ suelo. Vino tinto. Vino barato. Don Simón. Cuesta pocas pesetas y mata la
 memoria. Es el desayuno de los campeones, o de los perdedores. Yo soy el rey
 de los perdedores.
 
-
 Voy a la cocina. Camino sobre periódicos viejos. No hay café en la cocina.
 No hay leche. No hay comida. Solo hay un trozo de pan duro de hace tres días
 y un cigarrillo en la mesa. Enciendo el cigarrillo. El humo llena mis
@@ -149,6 +148,7 @@ pared otra vez. La mosca se frota las patas. Ella sabe que voy a aceptar.
 ¿Quiénes son sus amigos? ¿Dónde van?
 
 —No sé mucho. Javier no habla conmigo. Pero conozco un lugar —dice ella.
+
 —El bar Jamboree. En la Plaza Real. Dice que le gusta el jazz.
 
 ## Vocabulario
